@@ -621,7 +621,7 @@ navigator.share =
                         encodeURIComponent(url) +
                         "&quote=" +
                         encodeURIComponent(text) +
-                        "&hashtags=" +
+                        "&hashtag=" +
                         encodeURIComponent("#" + hashtags[0])
                     );
                     break;
